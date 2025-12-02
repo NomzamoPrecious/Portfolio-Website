@@ -97,16 +97,16 @@ In an age of data breaches and digital vulnerabilities, I approach every project
 
 My portfolio tells a story of progressive skill development:
 
-Hands-On Practice
+Hands-On Practice: 
 I believe in learning by doing. Whether it's configuring virtual labs in Packet Tracer, building ETL pipelines in Google Cloud, or analyzing real datasets, I'm constantly applying theoretical knowledge to practical scenarios.
 
-📚 Structured Learning
+📚 Structured Learning: 
 My certifications aren't just credentials, they're structured journeys through complex domains. Each represents 40-100 hours of focused study, practical exercises, and mastery validation from industry leaders like AWS, Cisco, and Microsoft.
 
-📝 Teaching to Learn
+📝 Teaching to Learn:
 As a former tutor, I discovered that explaining concepts to others deepens my own understanding. I maintain technical documentation, create clear project READMEs, and enjoy mentoring others—because the best way to master something is to teach it.
 
-🔄 Feedback Loops
+🔄 Feedback Loops: 
 Every project includes reflection: What worked? What could be better? How can I apply these lessons next time? This continuous improvement mindset turns every experience into a learning opportunity.
 
 ## 💡 What You'll Discover Here
