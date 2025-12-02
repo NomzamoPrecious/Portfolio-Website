@@ -59,24 +59,24 @@ Growing up in KwaZulu-Natal showed me both the potential and the challenges of t
 Too often, African tech professionals are seen only as consumers of technology created elsewhere. I'm changing that narrative, qpplying world-class skills to local challenges, proving that we can both learn from global best practices AND innovate solutions tailored to our unique context.
 
 #### 👩‍🏫 **Mentoring the Next Generation**
-As a former academic tutor, I know the power of knowledge sharing. My work matters because I'm not just building systems—I'm documenting processes, creating clear explanations, and paving the way for others to follow. Each project includes learning that I can pass on.
+As a former academic tutor, I know the power of knowledge sharing. My work matters because I'm not just building systems, I'm documenting processes, creating clear explanations, and paving the way for others to follow. Each project includes learning that I can pass on.
 
 #### ⚖️ **Building with Integrity**
-In an industry sometimes focused on quick wins, I prioritize sustainable, ethical solutions. Whether it's ensuring data privacy, implementing proper security protocols, or creating documentation for long-term maintenance—I build with integrity for lasting impact.
+In an industry sometimes focused on quick wins, I prioritize sustainable, ethical solutions. Whether it's ensuring data privacy, implementing proper security protocols, or creating documentation for long-term maintenance, I build with integrity for lasting impact.
 
 ### **Perspective 4: Future Vision**
 
 #### 🤖 **For the AI Revolution**
-As artificial intelligence transforms industries, clean, well-structured data becomes priceless. My data engineering work creates the foundation upon which machine learning models can be built—ensuring that AI solutions are based on accurate, representative data.
+As artificial intelligence transforms industries, clean, well-structured data becomes priceless. My data engineering work creates the foundation upon which machine learning models can be built, ensuring that AI solutions are based on accurate, representative data.
 
 #### 🏡 **For Remote Work Evolution**
-The future is distributed. My networking and cloud expertise enables seamless remote collaboration, helping organizations access talent regardless of location while maintaining security and productivity—a crucial capability for South Africa's participation in the global digital economy.
+The future is distributed. My networking and cloud expertise enables seamless remote collaboration, helping organizations access talent regardless of location while maintaining security and productivity, a crucial capability for South Africa's participation in the global digital economy.
 
 #### 📈 **For Sustainable Tech Growth**
 I believe in technology that grows with organizations, not technology that requires constant expensive upgrades. My solutions are scalable, maintainable, and designed with future needs in mind—helping businesses invest wisely in their digital futures.
 
 #### 🌍 **For Digital Inclusion**
-True innovation leaves no one behind. Whether it's ensuring websites are accessible, systems work on low-bandwidth connections, or interfaces are intuitive for non-technical users—I build with inclusion as a core principle, not an afterthought.
+True innovation leaves no one behind. Whether it's ensuring websites are accessible, systems work on low-bandwidth connections, or interfaces are intuitive for non-technical users, I build with inclusion as a core principle, not an afterthought.
 
 ## 🏆 What Makes This Portfolio Unique
 
@@ -84,7 +84,7 @@ True innovation leaves no one behind. Whether it's ensuring websites are accessi
 Growing up in South Africa has given me a unique lens on technology. I understand both the cutting-edge possibilities and the real-world constraints that shape digital solutions in emerging economies.
 
 ### 2. **The Bridge Builder**
-I don't just work with data OR networks OR security—I understand how they interconnect. This holistic approach allows me to see the bigger picture and create solutions that are cohesive, not compartmentalized.
+I don't just work with data OR networks OR security, I understand how they interconnect. This holistic approach allows me to see the bigger picture and create solutions that are cohesive, not compartmentalized.
 
 ### 3. **The Practical Dreamer**
 Yes, I can talk about theoretical models and advanced concepts. But what excites me more is getting my hands dirty with actual configurations, real datasets, and tangible results.
@@ -96,11 +96,12 @@ In an age of data breaches and digital vulnerabilities, I approach every project
 "The day I stop learning is the day I become obsolete." This isn't just a motto—it's my daily practice:
 
 My portfolio tells a story of progressive skill development:
-🌱 Hands-On Practice
+
+Hands-On Practice
 I believe in learning by doing. Whether it's configuring virtual labs in Packet Tracer, building ETL pipelines in Google Cloud, or analyzing real datasets, I'm constantly applying theoretical knowledge to practical scenarios.
 
 📚 Structured Learning
-My certifications aren't just credentials—they're structured journeys through complex domains. Each represents 40-100 hours of focused study, practical exercises, and mastery validation from industry leaders like AWS, Cisco, and Microsoft.
+My certifications aren't just credentials, they're structured journeys through complex domains. Each represents 40-100 hours of focused study, practical exercises, and mastery validation from industry leaders like AWS, Cisco, and Microsoft.
 
 📝 Teaching to Learn
 As a former tutor, I discovered that explaining concepts to others deepens my own understanding. I maintain technical documentation, create clear project READMEs, and enjoy mentoring others—because the best way to master something is to teach it.
@@ -110,7 +111,7 @@ Every project includes reflection: What worked? What could be better? How can I 
 
 ## 💡 What You'll Discover Here
 
-This portfolio is more than a resume—it's a conversation starter. You'll find:
+This portfolio is more than a resume, it's a conversation starter. You'll find:
 
 - **Projects with purpose**—Each project solves a real problem
 - **Skills in context**—Not just what I know, but how I apply it
