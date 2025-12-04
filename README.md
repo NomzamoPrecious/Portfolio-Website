@@ -26,59 +26,59 @@ I believe technology should be **accessible**, **secure**, and **meaningful**. W
 
 ### **Perspective 1: Industry Impact**
 
-#### 🏥 **For Healthcare & Public Services**
+#### **For Healthcare & Public Services**
 My data analytics skills can transform patient outcomes and resource allocation. By analyzing patterns in healthcare data, we can predict outbreaks, optimize hospital resources, and ensure medical supplies reach communities most in need, especially crucial in regions with limited infrastructure.
 
-#### 🎓 **For Education & Research Institutions**
+#### **For Education & Research Institutions**
 I bridge the gap between IT infrastructure and academic needs. Whether it's securing research data, enabling remote learning through robust networks, or helping educators understand student performance patterns, my work ensures that technology enhances rather than hinders the learning journey.
 
-#### 💼 **For Small & Medium Enterprises**
+#### **For Small & Medium Enterprises**
 In South Africa's growing SME sector, providing enterprise-grade solutions on accessible budgets is required. From securing online transactions to enabling remote work through VPNs to analyzing customer data for growth insights, I help local businesses compete in a digital world.
 
-#### 🌱 **For Environmental & Social Impact**
+#### **For Environmental & Social Impact**
 Technology can be a force for good. My skills in data visualization make complex issues like food insecurity understandable, empowering NGOs and policymakers to make informed decisions that directly improve lives in vulnerable communities.
 
-#### 🔄 **In the Age of Digital Transformation**
+#### **In the Age of Digital Transformation**
 As Africa undergoes rapid digital transformation, professionals who understand both legacy systems and modern cloud infrastructure are crucial. My expertise spans from on-premise Windows Server configurations to AWS cloud services, bridging the gap between traditional and future-ready infrastructure.
 
-#### 📊 **For Data-Driven Decision Making**
+#### **For Data-Driven Decision Making**
 In a world overwhelmed by information, I provide clarity. My data projects don't just present numbers,they tell stories that help organizations understand trends, predict outcomes, and make decisions that are both data-informed and human-centered.
 
-#### 🛡️ **For Cybersecurity in Growing Economies**
+#### **For Cybersecurity in Growing Economies**
 As South Africa's digital economy expands, so do cyber threats. My focus on security fundamentals helps protect emerging digital businesses, safeguarding not just data but economic opportunities for countless entrepreneurs and their employees.
 
-#### 🔋 **For Building Resilient Systems**
+#### **For Building Resilient Systems**
 From network redundancy to data backups to disaster recovery planning, my work ensures that essential services remain available even during challenges. In communities where internet access might be intermittent, resilient design isn't a luxury; it's a necessity.
 
 ### **Perspective 3: Personal Mission**
 
-#### 🤝 **Empowering My Community**
+#### **Empowering My Community**
 Growing up in KwaZulu-Natal showed me both the potential and the challenges of technology access. Every system I configure, every dashboard I build, every network I secure brings us one step closer to ensuring that geographical location doesn't determine digital opportunity.
 
-#### 🌐 **Creating Local Solutions with Global Standards**
+#### **Creating Local Solutions with Global Standards**
 Too often, African tech professionals are seen only as consumers of technology created elsewhere. I'm changing that narrative, qpplying world-class skills to local challenges, proving that we can both learn from global best practices AND innovate solutions tailored to our unique context.
 
-#### 👩‍🏫 **Mentoring the Next Generation**
+#### **Mentoring the Next Generation**
 As a former academic tutor, I know the power of knowledge sharing. My work matters because I'm not just building systems, I'm documenting processes, creating clear explanations, and paving the way for others to follow. Each project includes learning that I can pass on.
 
-#### ⚖️ **Building with Integrity**
+#### **Building with Integrity**
 In an industry sometimes focused on quick wins, I prioritize sustainable, ethical solutions. Whether it's ensuring data privacy, implementing proper security protocols, or creating documentation for long-term maintenance, I build with integrity for lasting impact.
 
 ### **Perspective 4: Future Vision**
 
-#### 🤖 **For the AI Revolution**
+#### **For the AI Revolution**
 As artificial intelligence transforms industries, clean, well-structured data becomes priceless. My data engineering work creates the foundation upon which machine learning models can be built, ensuring that AI solutions are based on accurate, representative data.
 
-#### 🏡 **For Remote Work Evolution**
+#### **For Remote Work Evolution**
 The future is distributed. My networking and cloud expertise enables seamless remote collaboration, helping organizations access talent regardless of location while maintaining security and productivity, a crucial capability for South Africa's participation in the global digital economy.
 
-#### 📈 **For Sustainable Tech Growth**
+#### **For Sustainable Tech Growth**
 I believe in technology that grows with organizations, not technology that requires constant expensive upgrades. My solutions are scalable, maintainable, and designed with future needs in mind—helping businesses invest wisely in their digital futures.
 
-#### 🌍 **For Digital Inclusion**
+#### **For Digital Inclusion**
 True innovation leaves no one behind. Whether it's ensuring websites are accessible, systems work on low-bandwidth connections, or interfaces are intuitive for non-technical users, I build with inclusion as a core principle, not an afterthought.
 
-## 🏆 What Makes This Portfolio Unique
+## What Makes This Portfolio Unique
 
 ### 1. **The South African Perspective**
 Growing up in South Africa has given me a unique lens on technology. I understand both the cutting-edge possibilities and the real-world constraints that shape digital solutions in emerging economies.
@@ -103,13 +103,13 @@ I believe in learning by doing. Whether it's configuring virtual labs in Packet 
 📚 Structured Learning: 
 My certifications aren't just credentials, they're structured journeys through complex domains. Each represents 40-100 hours of focused study, practical exercises, and mastery validation from industry leaders like AWS, Cisco, and Microsoft.
 
-📝 Teaching to Learn:
+Teaching to Learn:
 As a former tutor, I discovered that explaining concepts to others deepens my own understanding. I maintain technical documentation, create clear project READMEs, and enjoy mentoring others—because the best way to master something is to teach it.
 
 🔄 Feedback Loops: 
 Every project includes reflection: What worked? What could be better? How can I apply these lessons next time? This continuous improvement mindset turns every experience into a learning opportunity.
 
-## 💡 What You'll Discover Here
+## What You'll Discover Here
 
 This portfolio is more than a resume, it's a conversation starter. You'll find:
 
