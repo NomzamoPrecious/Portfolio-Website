@@ -1,6 +1,6 @@
 # Nomzamo Precious Dhlamini | Digital Portfolio
 
-🌐 Experience My Live Portfolio (Link)
+🌐 Experience My Live Portfolio
 
 ![Portfolio Banner](https://img.shields.io/badge/🌟_Welcome_to_My_Digital_Space-FF007F)
 ![South Africa](https://img.shields.io/badge/🇿🇦_South_Africa-Clean?color=007749)
@@ -140,7 +140,5 @@ Whether you're looking for a data analyst who understands infrastructure, a netw
 🔗 **LinkedIn:** linkedin.com/in/nomzamo-dhlamini-52a7bb29b  
 💻 **GitHub:** github.com/NomzamoPrecious  
 📱 **WhatsApp:** +27 64 979 0076
-
-** Visit my Interactive Portfolio** (Link)
 ---
 *This portfolio is built with care, curiosity, and code—just like the solutions I create.*
